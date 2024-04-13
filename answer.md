@@ -50,7 +50,3 @@ public void mt_getResult(){
 </html>
 ```
 更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
-
-## 個人認為完成作業須具備觀念
-
-開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)
